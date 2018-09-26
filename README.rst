@@ -19,29 +19,33 @@ Screenshots
 Soon
 
 .. Ready questions on buttons:
-.. image:: https://github.com/lonsofore/faqtelegrambot/blob/master/screenshots/1.png
+.. .. image:: https://github.com/lonsofore/faqtelegrambot/blob/master/screenshots/1.png
     
 .. Dialog example:
-.. image:: https://github.com/lonsofore/faqtelegrambot/blob/master/screenshots/2.png
+.. .. image:: https://github.com/lonsofore/faqtelegrambot/blob/master/screenshots/2.png
     
 .. Mod menu:
-.. image:: https://github.com/lonsofore/faqtelegrambot/blob/master/screenshots/3.png
+.. .. image:: https://github.com/lonsofore/faqtelegrambot/blob/master/screenshots/3.png
     
 .. Admin menu:
-.. image:: https://github.com/lonsofore/faqtelegrambot/blob/master/screenshots/4.png
+.. .. image:: https://github.com/lonsofore/faqtelegrambot/blob/master/screenshots/4.png
 
 
 Installing
 ----------
 
 Configure a virtual environment for the project:
-.. code-block:: bash
+.. code-block:: text
+
+    pip install -U Flask
     python3 -m venv bot
     cd bot
     source bin/activate
 
 Download the repo and install it:
-.. code-block:: bash
+.. code-block:: text
+
+    pip install -U Flask
     git clone https://github.com/lonsofore/faqtelegrambot
     cd faqtelegrambot
     python3 setup.py install
