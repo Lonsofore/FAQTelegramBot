@@ -1,0 +1,29 @@
+token: ''
+db_name: 'db.db'
+log_name: 'bot.log'
+webhook:
+  enabled: false  # webhook or polling? webhook - better stability, polling - easier to install
+  port_in: 7771  # internal port
+  port_out: 443  # external port: 443, 80, 88 or 8443
+  domain: 'yoursite.com'  # you should process this domain with link below to that port in your router (here or not)
+  link: 'AAAA'  # part of the link to send there
+  ssl:
+    enabled: false  # enabled if you don't have a cert on your domain
+    cert: './webhook_cert.pem'  # certificate path
+    priv: './webhook_pkey.pem'  # private key path
+  router:
+    enabled: false  # enable if you don't have apache/nginx/any other
+    host: '0.0.0.0'  # 0.0.0.0 - listen everywhere
+proxy:
+  use_always: true  # use proxy always or try to connect directly first?
+  list:  # if you have your own proxies, list them here
+  # - 'type://login:password@ip:port'
+  countries: ['GB', 'DE', 'NL', 'JP', 'FR', 'IT', 'ES', 'SE', 'PL']  # countries to search
+  types: ['http', 'https', 'socks5']  # types to search
+  timeout: 3  # check timeout
+  wait: 10  # wait before search again
+  check_url: 'http://api.telegram.org'  # url to check the proxy
+translate:
+  domain: 'bot'
+  dir: 'locale'
+  default: 'ru'

@@ -1,0 +1,12 @@
+pyTelegramBotAPI>=3.6.3
+requests>=2.19.1
+requests[socks]
+urllib3>=1.23
+gunicorn>=19.7.1
+emoji>=0.5.0
+cherrypy>=15.0.0
+proxy-list>=0.3.8
+proxybroker>=0.3.1
+ipgetter>=0.7
+ruamel.yaml>=0.15.42
+pyOpenSSL>=18.0.0

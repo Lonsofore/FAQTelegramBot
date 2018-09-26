@@ -1,0 +1,200 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2018-05-22 08:56+1000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CP1251\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: loc;loc_emoji\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: BotMessage.py:92 BotMessage.py:193
+msgid "Return to start"
+msgstr ""
+
+#: BotMessage.py:98 BotMessage.py:190
+msgid "Back"
+msgstr ""
+
+#: BotMessage.py:115 BotMessage.py:126
+msgid "Error. Lets try from start again."
+msgstr ""
+
+#: BotMessage.py:162
+msgid "No information for your request at this moment."
+msgstr ""
+
+#: BotMessage.py:245 BotMessage.py:324 BotMessage.py:361
+msgid "Manage mode"
+msgstr ""
+
+#: BotMessage.py:258
+msgid "Enter new bot message."
+msgstr ""
+
+#: BotMessage.py:267
+msgid "Enter new answer."
+msgstr ""
+
+#: BotMessage.py:276
+msgid "Select answer to edit."
+msgstr ""
+
+#: BotMessage.py:297 BotMessage.py:316
+msgid "Order changed"
+msgstr ""
+
+#: BotMessage.py:332
+msgid "Select answer to move."
+msgstr ""
+
+#: BotMessage.py:343
+msgid "Answer deleted"
+msgstr ""
+
+#: BotMessage.py:352
+msgid "Select answer to delete."
+msgstr ""
+
+#: BotMessage.py:371
+msgid "You exited manage mode."
+msgstr ""
+
+#: BotMessage.py:383
+msgid "Question edited"
+msgstr ""
+
+#: BotMessage.py:393
+msgid "Added new answer"
+msgstr ""
+
+#: BotMessage.py:404 BotMessage.py:440 BotMessage.py:470
+msgid "Error. Unknown variant."
+msgstr ""
+
+#: BotMessage.py:415 BotMessage.py:451 BotMessage.py:481
+msgid "You choosed"
+msgstr ""
+
+#: BotMessage.py:417
+msgid "Now send me a new answer."
+msgstr ""
+
+#: BotMessage.py:429
+msgid "Answer edited"
+msgstr ""
+
+#: BotMessage.py:453
+msgid "Do you really want to delete this answer?"
+msgstr ""
+
+#: BotMessage.py:483
+msgid "Now move it to the new position."
+msgstr ""
+
+#: BotMessage.py:505
+msgid "Cancel"
+msgstr ""
+
+#: BotMessage.py:515 BotMessage.py:533
+msgid "Save"
+msgstr ""
+
+#: BotMessage.py:525
+msgid "Up"
+msgstr ""
+
+#: BotMessage.py:529
+msgid "Down"
+msgstr ""
+
+#: BotMessage.py:544
+msgid "Yes"
+msgstr ""
+
+#: BotMessage.py:548
+msgid "No"
+msgstr ""
+
+#: BotMessage.py:558
+msgid "Add answer"
+msgstr ""
+
+#: BotMessage.py:562
+msgid "Delete answer"
+msgstr ""
+
+#: BotMessage.py:566
+msgid "Edit answer"
+msgstr ""
+
+#: BotMessage.py:570
+msgid "Move answer"
+msgstr ""
+
+#: BotMessage.py:574
+msgid "Edit bot message"
+msgstr ""
+
+#: BotMessage.py:578
+msgid "Exit manage mode"
+msgstr ""
+
+#: BotMessage.py:607
+msgid "User level edited."
+msgstr ""
+
+#: BotMessage.py:615
+msgid "Enter user's login."
+msgstr ""
+
+#: BotMessage.py:622 BotMessage.py:681
+msgid "Admin mode"
+msgstr ""
+
+#: BotMessage.py:630
+msgid "You exited admin mode."
+msgstr ""
+
+#: BotMessage.py:659
+msgid "User found!"
+msgstr ""
+
+#: BotMessage.py:660
+msgid "First name"
+msgstr ""
+
+#: BotMessage.py:662
+msgid "Last name"
+msgstr ""
+
+#: BotMessage.py:664
+msgid "Level"
+msgstr ""
+
+#: BotMessage.py:666
+msgid "Select a new user level:"
+msgstr ""
+
+#: BotMessage.py:674
+msgid "Error. No user found."
+msgstr ""
+
+#: BotMessage.py:688
+msgid "Edit user's level"
+msgstr ""
+
+#: BotMessage.py:692
+msgid "Exit admin mode"
+msgstr ""

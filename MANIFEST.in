@@ -1,0 +1,2 @@
+recursive-include faqtelegrambot *.yml *.db
+recursive-include faqtelegrambot/locale *.pot *.po *.mo

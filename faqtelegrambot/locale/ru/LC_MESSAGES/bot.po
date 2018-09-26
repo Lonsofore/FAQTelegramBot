@@ -1,0 +1,220 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: bot\n"
+"POT-Creation-Date: 2018-05-22 08:56+1000\n"
+"PO-Revision-Date: 2018-07-04 11:22+1000\n"
+"Last-Translator: Pavel <lonsofore@ya.ru>\n"
+"Language-Team: \n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.0.6\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: loc;loc_emoji\n"
+
+#: BotMessage.py:92 BotMessage.py:193
+msgid "Return to start"
+msgstr "В начало"
+
+#: BotMessage.py:98 BotMessage.py:190
+msgid "Back"
+msgstr "Назад"
+
+#: BotMessage.py:115 BotMessage.py:126
+msgid "Error. Lets try from start again."
+msgstr "Ошибка. Попробуйте начать с начала."
+
+#: BotMessage.py:162
+msgid "No information for your request at this moment."
+msgstr "На данный момент по вашему запросу нет информации."
+
+#: BotMessage.py:245 BotMessage.py:324 BotMessage.py:361
+msgid "Manage mode"
+msgstr "Режим редактирования"
+
+#: BotMessage.py:258
+msgid "Enter new bot message."
+msgstr "Введите новое сообщение бота."
+
+#: BotMessage.py:267
+msgid "Enter new answer."
+msgstr "Введите новый ответ."
+
+#: BotMessage.py:276
+msgid "Select answer to edit."
+msgstr "Выберите вариант ответа, который хотите отредактировать."
+
+#: BotMessage.py:297 BotMessage.py:316
+msgid "Order changed"
+msgstr "Порядок ответов изменен"
+
+#: BotMessage.py:332
+msgid "Select answer to move."
+msgstr "Выберите вариант ответа, который хотите переместить."
+
+#: BotMessage.py:343
+msgid "Answer deleted"
+msgstr "Вариант ответа удален"
+
+#: BotMessage.py:352
+msgid "Select answer to delete."
+msgstr "Выберите вариант ответа, который хотите удалить."
+
+#: BotMessage.py:371
+msgid "You exited manage mode."
+msgstr "Вы вышли из режима редактирования."
+
+#: BotMessage.py:383
+msgid "Question edited"
+msgstr "Вопрос отредактирован"
+
+#: BotMessage.py:393
+msgid "Added new answer"
+msgstr "Новый ответ был добавлен"
+
+#: BotMessage.py:404 BotMessage.py:440 BotMessage.py:470
+msgid "Error. Unknown variant."
+msgstr "Ошибка. Неизвестный вариант ответа."
+
+#: BotMessage.py:415 BotMessage.py:451 BotMessage.py:481
+msgid "You choosed"
+msgstr "Вы выбрали"
+
+#: BotMessage.py:417
+msgid "Now send me a new answer."
+msgstr "Введите новый вариант ответа."
+
+#: BotMessage.py:429
+msgid "Answer edited"
+msgstr "Ответ изменен"
+
+#: BotMessage.py:453
+msgid "Do you really want to delete this answer?"
+msgstr "Вы действительно хотите удалить этот вариант ответа?"
+
+#: BotMessage.py:483
+msgid "Now move it to the new position."
+msgstr "Переместите ответ."
+
+#: BotMessage.py:505
+msgid "Cancel"
+msgstr "Отмена"
+
+#: BotMessage.py:515 BotMessage.py:533
+msgid "Save"
+msgstr "Сохранить"
+
+#: BotMessage.py:525
+msgid "Up"
+msgstr "Вверх"
+
+#: BotMessage.py:529
+msgid "Down"
+msgstr "Вниз"
+
+#: BotMessage.py:544
+msgid "Yes"
+msgstr "Да"
+
+#: BotMessage.py:548
+msgid "No"
+msgstr "Нет"
+
+#: BotMessage.py:558
+msgid "Add answer"
+msgstr "Добавить ответ"
+
+#: BotMessage.py:562
+msgid "Delete answer"
+msgstr "Удалить ответ"
+
+#: BotMessage.py:566
+msgid "Edit answer"
+msgstr "Изменить ответ"
+
+#: BotMessage.py:570
+msgid "Move answer"
+msgstr "Переместить ответ"
+
+#: BotMessage.py:574
+msgid "Edit bot message"
+msgstr "Изменить сообщение бота"
+
+#: BotMessage.py:578
+msgid "Exit manage mode"
+msgstr "Выйти из режима редактирования"
+
+#: BotMessage.py:607
+msgid "User level edited."
+msgstr "Уровень пользователя изменен."
+
+#: BotMessage.py:615
+msgid "Enter user's login."
+msgstr "Введите логин пользователя."
+
+#: BotMessage.py:622 BotMessage.py:681
+msgid "Admin mode"
+msgstr "Режим администрирования"
+
+#: BotMessage.py:630
+msgid "You exited admin mode."
+msgstr "Вы вышли из режима администрирования."
+
+#: BotMessage.py:659
+msgid "User found!"
+msgstr "Пользователь найден!"
+
+#: BotMessage.py:660
+msgid "First name"
+msgstr "Имя"
+
+#: BotMessage.py:662
+msgid "Last name"
+msgstr "Фамилия"
+
+#: BotMessage.py:664
+msgid "Level"
+msgstr "Уровень"
+
+#: BotMessage.py:666
+msgid "Select a new user level:"
+msgstr "Выберите новый уровень пользователя:"
+
+#: BotMessage.py:674
+msgid "Error. No user found."
+msgstr "Ошибка. Такого пользователя не существует."
+
+#: BotMessage.py:688
+msgid "Edit user's level"
+msgstr "Редактировать уровень пользователя"
+
+#: BotMessage.py:692
+msgid "Exit admin mode"
+msgstr "Выйти из режима администрирования"
+
+#~ msgid "You choosed cancel."
+#~ msgstr "Вы выбрали отмену."
+
+#~ msgid "You choosed cancel"
+#~ msgstr "Редактирование отменено"
+
+#~ msgid "You choosed no"
+#~ msgstr "Вы отказались от удаления"
+
+#~ msgid "Edit question"
+#~ msgstr "Изменить результат ответа"
+
+#~ msgid "Add question"
+#~ msgstr "Добавить вопрос"
+
+#~ msgid "Delete question"
+#~ msgstr "Удалить вопрос"
